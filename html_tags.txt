@@ -1,0 +1,79 @@
+﻿Task 3 
+Given tag - <input>,<legend>,<label>
+1.<input>
+HTML CODE
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <form>
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username"><br><br>
+       
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password"><br><br>
+       
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email"><br><br>
+       
+        <label for="phone">Phone:</label>
+        <input type="tel" id="phone" name="phone"><br><br>
+       
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
+
+
+
+
+
+
+2.<label for=””></label>
+HTML CODE
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <form>
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username"><br><br>
+       
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password"><br><br>
+       
+        <label for="male">Male:</label>
+        <input type="radio" id="male" name="gender" value="male">
+       
+        <label for="female">Female:</label>
+        <input type="radio" id="female" name="gender" value="female"><br><br>
+   
+    </form>
+</body>
+</html>
+
+
+
+
+3.<legend></legend>
+HTML CODE
+
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <legend>Personal Information:</legend>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name"><br><br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email"><br><br>
+        </fieldset>
+    </form>
+</body>
+</html>
