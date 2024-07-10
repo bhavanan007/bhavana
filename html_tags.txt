@@ -2,6 +2,7 @@
 Given tag - <input>,<legend>,<label>
 1.<input>
 HTML CODE
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -28,10 +29,9 @@ HTML CODE
 
 
 
-
-
 2.<label for=””></label>
 HTML CODE
+
 <!DOCTYPE html>
 <html>
 <head>
